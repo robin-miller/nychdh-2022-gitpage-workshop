@@ -4,9 +4,7 @@ I love this hipster ipsum. I'm baby live-edge mixtape ugh chillwave actually yuc
 
 ### It's Alive!
 
-<div class="video-container">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/SyyrwoCec1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 # Header 1
 ## Header 2
