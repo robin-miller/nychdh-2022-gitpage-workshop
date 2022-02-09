@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/robin-miller/nychdh-2022-gitpage-workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm baby live-edge mixtape ugh chillwave actually yuccie. Organic tilde stumptown truffaut. VHS austin wayfarers art party bitters, live-edge pitchfork before they sold out aesthetic. Marfa woke normcore paleo fashion axe, keytar pabst activated charcoal hoodie.
 
 ### Markdown
 
