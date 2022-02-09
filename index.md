@@ -18,5 +18,5 @@ I love this hipster ipsum. I'm baby live-edge mixtape ugh chillwave actually yuc
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](about.md) and ![Image](src)
 ```
